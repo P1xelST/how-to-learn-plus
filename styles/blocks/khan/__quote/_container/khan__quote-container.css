@@ -1,0 +1,5 @@
+.khan__quote-container {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 50px;
+}
