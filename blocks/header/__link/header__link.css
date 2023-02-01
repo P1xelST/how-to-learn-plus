@@ -2,6 +2,8 @@
     text-decoration: none;
     transition: all .5s;
     color: #2f80ed;
+    font-size: 18px;
+    font-weight: 400;
   }
 .header__link:hover {
   opacity: .5;
