@@ -6,7 +6,6 @@
 */
 @import url('../blocks/header/header.css');
 @import url('../blocks/logo/_place/logo_place_header.css');
-@import url('../blocks/header/logo/logo_place_header.css');
 @import url('../blocks/header/__title/header__title.css');
 @import url('../blocks/header/__subtitle/header__subtitle.css');
 @import url('../blocks/header/__link/header__link.css');
@@ -21,10 +20,10 @@
 @import url('../blocks/two-columns/__paragraph/two-columns__paragraph.css');
 @import url('../blocks/two-columns/__span-accent/two-columns__span-accent.css');
 /* --- title --- */
-@import url('../blocks/title/title.css');
-@import url('../blocks/subtitle/subtitle.css');
-@import url('../blocks/title/_theme/section-title_theme_dark.css');
-@import url('../blocks/subtitle/_theme/section-subtitle_theme_dark.css');
+@import url('../blocks/section-title/title.css');
+@import url('../blocks/section-subtitle/subtitle.css');
+@import url('../blocks/section-title/_theme/section-title_theme_dark.css');
+@import url('../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css');
 /* --- techniques --- */
 @import url('../blocks/techniques/techniques.css');
 @import url('../blocks/cards/cards.css');
