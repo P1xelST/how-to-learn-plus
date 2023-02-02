@@ -62,7 +62,7 @@
 @import url('../blocks/khan/__buy-link/khan__buy-link.css');
 /* --- kaufman --- */
 @import url('../blocks/kaufman/kaufman.css');
-@import url('../blocks/kaufman/table/__cell/_theme/table__cell_theme_dark.css');
+@import url('../blocks/table/__cell/_theme/table__cell_theme_dark.css');
 @import url('../blocks/kaufman/__triangle/kaufman__triangle.css');
 /* --- resources --- */
 @import url('../blocks/resources/resources.css');
